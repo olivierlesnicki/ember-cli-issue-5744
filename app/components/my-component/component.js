@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-issue-5744/components/my-component/component';
